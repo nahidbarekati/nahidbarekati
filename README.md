@@ -2,5 +2,4 @@
 - ✨ I am a highly motivated full-stack developer:)
 - 👀 I’m interested in programing, do aerobics, go walk :)
 - 🌱 I’m currently learning elasticsearch, react ...
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me https://www.linkedin.com/in/nahid-barekati-a1b495201
