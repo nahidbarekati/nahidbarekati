@@ -1,9 +1,14 @@
-- 👋 Hi , I’m @nahidbarekati
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=ADD_THEME_HERE" width="400">
+- 👋 Hi there, I’m @nahidbarekati.
+- ✨ I am a highly motivated full-stack developer:)
+- 👀 I’m interested in programing, do aerobics, go walk :)
+- 🌱 I’m currently learning elasticsearch, react ...
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me https://www.linkedin.com/in/nahid-barekati-a1b495201
+
+
+
+![babel](https://user-images.githubusercontent.com/93659771/201465594-ef246c39-6597-4a15-9a6c-e0ee6a1ddee9.svg)
+
 <!---
 nahidbarekati/nahidbarekati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
