@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m @nahidbarekati.
-- ✨ I am a highly motivated full-stack developer:)
+- ✨ I am a highly motivated backend developer:)
 - 👀 I’m interested in programing, do aerobics, go walk :)
 - 🌱 I’m currently learning elasticsearch, react ...
 - 📫 How to reach me https://www.linkedin.com/in/nahid-barekati-a1b495201
