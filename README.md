@@ -11,7 +11,7 @@
 
 ```javascript
 const nahid = {
-  name: nahid✨
+  name: "nahid✨"
   pronouns: "ُShe" | "Her",
   code: ["JavaScript", "TypeScript", "Python"],
   backend: ["Node.js", "Express", "NestJS", "Microservices"],
