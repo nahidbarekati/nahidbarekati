@@ -22,7 +22,7 @@ const nahid = {
   hobbies: ["Listen Music", "Walking", "Open Source Contributions"]
 };
 
-console.log(`Hi, I'm ${nahid.name}, a passionate backend developer specializing in building scalable and efficient systems.`);
+console.log(`Hi, I'm nahid✨, a passionate backend developer specializing in building scalable and efficient systems.`);
 ```
 
 ---
