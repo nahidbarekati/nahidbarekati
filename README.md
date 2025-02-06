@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Nahid Barekati
 
 ✨ **Backend Developer | Microservices Enthusiast | Real-Time Data Architect**  
-👀 **Interested in:** Programming, Aerobics, Walking  
+👀 **Interested in:** Programming, Walking, Listen Music 
 🌱 **Currently learning:** Elasticsearch, React  
 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/nahid-barekati-a1b495201) | [Email](mailto:your-email@example.com)
 
