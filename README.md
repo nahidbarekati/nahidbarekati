@@ -1,8 +1,7 @@
 # 👋 Hi there, I’m Nahid Barekati
 
 ✨ **Backend Developer | Microservices Enthusiast | Real-Time Data Architect**  
-👀 **Interested in:** Programming, Walking, Listen Music 
-🌱 **Currently learning:** Elasticsearch, React  
+👀 **Interested in:** Programming, Walking, Listen Music **
 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/nahid-barekati-a1b495201) | [Email](mailto:your-email@example.com)
 
 
@@ -12,6 +11,7 @@
 
 ```javascript
 const nahid = {
+  name: nahid✨
   pronouns: "ُShe" | "Her",
   code: ["JavaScript", "TypeScript", "Python"],
   backend: ["Node.js", "Express", "NestJS", "Microservices"],
